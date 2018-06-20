@@ -1,0 +1,9 @@
+K:\Antoine\Cours\DEV2\DEV\Gestion des compte\Gestion des compte\bin\Debug\Gestion des compte.exe.config
+K:\Antoine\Cours\DEV2\DEV\Gestion des compte\Gestion des compte\bin\Debug\Gestion des compte.exe
+K:\Antoine\Cours\DEV2\DEV\Gestion des compte\Gestion des compte\bin\Debug\Gestion des compte.pdb
+K:\Antoine\Cours\DEV2\DEV\Gestion des compte\Gestion des compte\obj\Debug\Gestion des compte.csprojResolveAssemblyReference.cache
+K:\Antoine\Cours\DEV2\DEV\Gestion des compte\Gestion des compte\obj\Debug\Gestion_des_compte.FRM_Transfert.resources
+K:\Antoine\Cours\DEV2\DEV\Gestion des compte\Gestion des compte\obj\Debug\Gestion_des_compte.Properties.Resources.resources
+K:\Antoine\Cours\DEV2\DEV\Gestion des compte\Gestion des compte\obj\Debug\Gestion des compte.csproj.GenerateResource.Cache
+K:\Antoine\Cours\DEV2\DEV\Gestion des compte\Gestion des compte\obj\Debug\Gestion des compte.exe
+K:\Antoine\Cours\DEV2\DEV\Gestion des compte\Gestion des compte\obj\Debug\Gestion des compte.pdb
